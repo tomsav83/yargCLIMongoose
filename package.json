@@ -1,0 +1,25 @@
+{
+  "name": "yargclimongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomsav83/yargCLIMongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomsav83/yargCLIMongoose/issues"
+  },
+  "homepage": "https://github.com/tomsav83/yargCLIMongoose#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.1.4",
+    "yargs": "^17.3.1"
+  }
+}
